@@ -25,7 +25,7 @@ HyperTime provides a unified interface for creating, running, and training intel
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/HyperTime.git
+git clone https://github.com/Eliottfrhl/HyperTime.git
 cd HyperTime
 
 # Install with Poetry (basic installation)
@@ -63,7 +63,7 @@ import hypertime as ht
 
 ## 📚 Documentation
 
-Full documentation is available at [https://yourusername.github.io/HyperTime/](https://yourusername.github.io/HyperTime/)
+Full documentation is available at [https://Eliottfrhl.github.io/HyperTime/](https://Eliottfrhl.github.io/HyperTime/)
 
 ## 🏗️ Project Status
 
@@ -128,8 +128,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Issues: [GitHub Issues](https://github.com/yourusername/HyperTime/issues)
+- GitHub: [@Eliottfrhl](https://github.com/Eliottfrhl)
+- Issues: [GitHub Issues](https://github.com/Eliottfrhl/HyperTime/issues)
 
 ---
 

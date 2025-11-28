@@ -5,9 +5,9 @@ description = "A flexible robotics and reinforcement learning simulation framewo
 authors = ["Your Name <your.email@example.com>"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/yourusername/HyperTime"
-repository = "https://github.com/yourusername/HyperTime"
-documentation = "https://yourusername.github.io/HyperTime/"
+homepage = "https://github.com/Eliottfrhl/HyperTime"
+repository = "https://github.com/Eliottfrhl/HyperTime"
+documentation = "https://Eliottfrhl.github.io/HyperTime/"
 keywords = ["robotics", "reinforcement-learning", "simulation", "rl", "pybullet"]
 classifiers = [
     "Development Status :: 3 - Alpha",

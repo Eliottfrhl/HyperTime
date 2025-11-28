@@ -156,9 +156,9 @@ HyperTime is inspired by and builds upon:
 
 ## 📧 Support
 
-- 📖 [Documentation](https://yourusername.github.io/HyperTime/)
-- 🐛 [Issue Tracker](https://github.com/yourusername/HyperTime/issues)
-- 💬 [Discussions](https://github.com/yourusername/HyperTime/discussions)
+- 📖 [Documentation](https://Eliottfrhl.github.io/HyperTime/)
+- 🐛 [Issue Tracker](https://github.com/Eliottfrhl/HyperTime/issues)
+- 💬 [Discussions](https://github.com/Eliottfrhl/HyperTime/discussions)
 
 ---
 

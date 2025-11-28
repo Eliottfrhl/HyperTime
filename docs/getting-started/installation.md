@@ -39,7 +39,7 @@ This is the current recommended method:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/HyperTime.git
+git clone https://github.com/Eliottfrhl/HyperTime.git
 cd HyperTime
 
 # Install with pip
@@ -248,5 +248,5 @@ Now that HyperTime is installed, continue to:
 If you encounter issues:
 
 1. Check the [Troubleshooting](#troubleshooting) section above
-2. Search [existing issues](https://github.com/yourusername/HyperTime/issues)
-3. Open a [new issue](https://github.com/yourusername/HyperTime/issues/new) with details about your problem
+2. Search [existing issues](https://github.com/Eliottfrhl/HyperTime/issues)
+3. Open a [new issue](https://github.com/Eliottfrhl/HyperTime/issues/new) with details about your problem
